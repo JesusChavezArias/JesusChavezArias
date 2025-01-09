@@ -5,13 +5,13 @@ I am a Computer Systems Engineering student passionate about programming and tec
 
 ## My Skills
 - **Programming Languages:** Python, C#, C/C++, Java, Typescript, Javascript, PHP
-- **Web Development:** Angular, HTML, SCSS/CSS
+- **Web Development:** Angular, HTML, SCSS/CSS, Spring Boot (currently studying)
 - **Operating Systems:** Linux (Fedora, Debian & Oracle Linux)
 - **Databases:** Oracle DB, MySQL, Firebase
 - **Cloud:** AWS (EC2, S3)
 - **Containers:** Docker (Container Creation, Docker Compose)
 - **Networking:** TCP/IP, VLANs, Routing & Switching (CCNA), Cisco Protocols (OSPF, EIGRP), Device Configuration, Network Security (Firewall, VPN, SSH)
-- **Version Control:** Git (Version Control, Collaboration)
+- **Version Control:** Git
 - **Project Management:** Agile Methodologies (Scrum), Sprint Planning, Daily Scrum, Retrospectives, Task Prioritization
 
 ## Projects
