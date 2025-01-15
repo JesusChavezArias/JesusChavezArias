@@ -6,7 +6,7 @@ I am a Computer Systems Engineering student passionate about programming and tec
 ## My Skills
 - **Programming Languages:** Python, C#, C/C++, Java, Typescript, Javascript, PHP
 - **Web Development:** Angular, HTML, CSS, Spring Boot (currently studying)
-- **Operating Systems:** Linux (Fedora, Debian & Oracle Linux)
+- **Operating Systems:** Windows & Linux (Setup, Administration, Configuration, Maintenance, Scripting)
 - **Databases:** Oracle DB, MySQL, Firebase
 - **Cloud:** AWS (EC2, S3)
 - **Containers:** Docker (Container Creation, Docker Compose)
